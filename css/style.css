@@ -10,8 +10,16 @@
 
 h1 {
   font-family: Baskerville;
+  color:grey;
+  font-size:32px;
 }
 
+
+h1 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 32px;
+}
 /*////////// Global Styles //////////*/
 
 body {
