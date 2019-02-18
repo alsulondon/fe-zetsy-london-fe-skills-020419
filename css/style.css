@@ -2,10 +2,15 @@
 
 @font-face {
   font-family: Baskerville;
-  src: url(fonts/Baskerville.tcc);
+  src: url(../fonts/Baskerville.tcc);
 }
 
+
 /* link the web font used for the level 1 heading here */
+
+h1 {
+  font-family: Baskerville;
+}
 
 /*////////// Global Styles //////////*/
 
